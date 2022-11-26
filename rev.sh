@@ -10,3 +10,4 @@ do
 done
 echo $rev
 echo webhook
+echo checking pollscm
